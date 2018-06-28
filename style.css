@@ -1,4 +1,14 @@
+@charset "UTF-8";
+
 .centre{
     margin:auto;
    width: :60%;
     }
+
+.button_container{
+	width: 100%
+	text-align: center;
+	left:30%;
+}
+
+
